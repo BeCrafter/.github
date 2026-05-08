@@ -15,7 +15,7 @@
 | 分类 | 项目数 | 代表作 |
 |------|--------|--------|
 | 🤖 AI 提示词生态 | 3 | prompt-manager, PromptCraft |
-| 🔗 MCP 生态 | 2 | onemcp, iskill |
+| 🔗 MCP 生态 | 3 | onemcp, iskill, skill-mcp |
 | ⚡ 分布式与系统 | 2 | go-ratelimiter |
 | 📊 数据处理 | 2 | json2image, go-parser |
 | 🛠️ 工具集封装 | 1 | commander |
@@ -39,6 +39,7 @@
 |------|------|--------|------|
 | [onemcp](https://github.com/BeCrafter/onemcp) | 智能 MCP 路由系统 - 统一管理多个 MCP 服务器 | TypeScript | ✅ 稳定迭代 |
 | [iskill](https://github.com/BeCrafter/iskill) | 灵活的 Skill 安装管理工具，支持自定义路径 | TypeScript | ✅ 稳定迭代 |
+| [skill-mcp](https://github.com/BeCrafter/skill-mcp) | 管理可复用的 AI 技能包的 MCP 服务器 | TypeScript | 🚀 持续更新 |
 
 ### onemcp 核心特性
 
